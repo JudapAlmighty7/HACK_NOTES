@@ -1,10 +1,8 @@
-# HACK_NOTES
-## VMWARE WORKSTATION PRO
-
+# Hack_notes
+# Download VMware
 ## Table of content
-
-# Download VMware: https://my.vmware.com/en/web/vmware/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/15_0
-#  
+- Download VMware: https://my.vmware.com/en/web/vmware/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/15_0
+- [Kali-settings-Thanks-Mati-Aharoni](#Kali-settings-Thanks-Mati-Aharoni)
 ---------------------------------------------------------------------------
 #### Kali-settings-Thanks-Mati-Aharoni
 ```
