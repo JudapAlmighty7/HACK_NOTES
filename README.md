@@ -1,7 +1,5 @@
 # Hack_notes by JudapAlmighty7
 
-# How To Become A Hack Agent by CHackA0101
-
 ## Table of content
 
 - [VMware-download](#VMware-download)
