@@ -1,9 +1,10 @@
 # HACK_NOTES
-# How To Become A Hack Agent by CHackA0101
+# VMWARE WORKSTATION PRO
 
 ## Table of content
 
-- [Kali-settings-Thanks-Mati-Aharoni](#Kali-settings-Thanks-Mati-Aharoni)
+- Download VMware: https://my.vmware.com/en/web/vmware/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/15_0
+- 
 ---------------------------------------------------------------------------
 #### Kali-settings-Thanks-Mati-Aharoni
 ```
