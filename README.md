@@ -4,9 +4,9 @@
 
 ## Table of content
 
-- [Kali-settings-Thanks-Mati-Aharoni](#Kali-settings-Thanks-Mati-Aharoni)
+- [VMware-download](#VMware-download)
 ---------------------------------------------------------------------------
-#### Kali-settings-Thanks-Mati-Aharoni
+#### VMware-download
 ```
 # Download Kali VMware: https://support.offensive-security.com/kali-vm/
 https://images.offensive-security.com/virtual-images/kali-linux-2020.1-vmware-amd64.7z
