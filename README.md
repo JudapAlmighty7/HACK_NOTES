@@ -1,10 +1,12 @@
 # Hack_notes by JudapAlmighty7
 
+# How To Become A Hack Agent by CHackA0101
+
 ## Table of content
 
-- [Download-VMware](#thank to me)
+- [Kali-settings-Thanks-Mati-Aharoni](#Kali-settings-Thanks-Mati-Aharoni)
 ---------------------------------------------------------------------------
-#### Download-VMware
+#### Kali-settings-Thanks-Mati-Aharoni
 ```
 # Download Kali VMware: https://support.offensive-security.com/kali-vm/
 https://images.offensive-security.com/virtual-images/kali-linux-2020.1-vmware-amd64.7z
