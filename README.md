@@ -6,8 +6,11 @@
 ---------------------------------------------------------------------------
 #### VMware-download
 ```
-# Download Kali VMware: https://support.offensive-security.com/kali-vm/
-https://images.offensive-security.com/virtual-images/kali-linux-2020.1-vmware-amd64.7z
+# Download Kali VMware: https://my.vmware.com/en/web/vmware/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/15_0
+# Activate with license key and install based on system
+# ISO Download: https://cdimage.kali.org/kali-2020.3/kali-linux-2020.3-installer-amd64.iso
+# Follow up steps: https://github.com/chacka0101/HACKLABS/blob/master/HACKLAB%20PARA%20INSTALAR%20KALI%20LINUX.pdf
+# https://images.offensive-security.com/virtual-images/kali-linux-2020.1-vmware-amd64.7z
 # Download https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
 # On Vmware Workstation clic File, Open.
 # Change to 8 GB RAM
